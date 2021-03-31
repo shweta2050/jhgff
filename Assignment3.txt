@@ -1,0 +1,3 @@
+1 Create Student class. With data members rollno,name,email,mar1,mark2,mark3,mark4,mark5.
+ ---->write method to accept and display info abt student.
+----->write showResult() method to show TotalMarks,Percentage,Grade .
